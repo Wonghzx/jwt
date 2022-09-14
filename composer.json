@@ -19,11 +19,11 @@
   },
   "require": {
     "php": ">=7.3",
-    "hyperf/config": "2.1.*",
+    "hyperf/config": "v2.2.*",
     "ext-swoole": ">=4.5",
-    "hyperf/utils": "2.1.*",
-    "hyperf/framework": "2.1.*",
-    "hyperf/di": "2.1.0",
+    "hyperf/utils": "v2.2.*",
+    "hyperf/framework": "v2.2.*",
+    "hyperf/di": "v2.2.*",
     "ext-json": "*",
     "ext-redis": "*"
   },
